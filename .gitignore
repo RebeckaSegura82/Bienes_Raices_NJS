@@ -1,0 +1,5 @@
+.env
+node_modules/
+src/
+tailwind.config.cjs
+webpack.config.js
